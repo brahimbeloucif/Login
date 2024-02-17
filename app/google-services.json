@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46661602533",
+    "project_id": "login-register-tp-appmobv1",
+    "storage_bucket": "login-register-tp-appmobv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46661602533:android:b0d2fe77b6388d408c980c",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQGR0AAk8nRsJIObIzTJHBWz9wMRJJJUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
